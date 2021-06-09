@@ -55,7 +55,14 @@ a
     border-color: #2927b9;
 }
 
-.login-button, .register-button p
+.login-button p
+{
+    color: #2927b9;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.register-button p
 {
     color: #2927b9;
     text-align: center;
